@@ -76,3 +76,33 @@ h6 {
   border-radius: 20px;
   padding: 8px 16px;
 }
+
+.banner-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 24px;
+}
+
+.banner-title h1 {
+  color: #121722;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.banner-title p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #121722b3;
+}
+
+.banner-btn {
+  background-color: #2f63d4;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 25px;
+  text-decoration: none;
+}
