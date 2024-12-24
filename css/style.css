@@ -106,3 +106,60 @@ h6 {
   border-radius: 25px;
   text-decoration: none;
 }
+
+.clients-container {
+  background-color: #4058ff;
+  border-radius: 16px;
+  display: flex;
+}
+
+.clients-title {
+  text-align: center;
+  margin-top: 17px;
+  padding-bottom: 24px;
+}
+
+.clients-title h2 {
+  color: #121722;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.clients-title p {
+  color: #121722b3;
+  font-size: 21px;
+  font-weight: 400;
+}
+
+.left {
+  text-align: left;
+  padding-top: 116px;
+  padding-bottom: 118px;
+  padding-left: 48px;
+  padding-right: 90px;
+}
+
+.left h3 {
+  color: #ffffff;
+  font-size: 34px;
+  font-weight: 400;
+}
+
+.left p {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.clinets-item {
+  border-bottom: 1px solid #121722;
+}
+
+.right {
+  text-align: right;
+  padding-top: 80px;
+}
+
+.right img {
+  border-radius: 8px;
+}
